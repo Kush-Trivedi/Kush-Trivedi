@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Azure Data Engineering DP-203.
 - 💞️ I’m looking to collaborate on getting down to some serious business. 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/kush-trivedi/)"
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/kush-trivedi/)
 
 <!---
 Kush-Trivedi/Kush-Trivedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
