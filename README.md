@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kush Trivedi.
 - 👀 I’m interested in Data Engineer and Data Science.
-- 🌱 I’m currently learning Azure Data Engineering DP-203, DA-100 & Tableau Data Analyst certifications.
+- 🌱 I’m currently learning Azure Data Science DP-100, DA-100 & Tableau Data Analyst certifications.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/kush-trivedi/)
 
 <!---
